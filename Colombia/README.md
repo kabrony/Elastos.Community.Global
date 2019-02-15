@@ -18,7 +18,7 @@ Feel free to add information in this page.
 
 Aldo Villamil (Bogota,Ibague)
 
-86Blockchain@pm.me
+organix86@protonmail.com
 
 https://www.facebook.com/86BlockChain
 
