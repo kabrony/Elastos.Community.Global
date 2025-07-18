@@ -19,6 +19,9 @@
 - [Shangai](China/SHANGAI.md)
 - [Shijiazhuang](China/SHIJIAZHUANG.md)
 - [Xian](China/XIAN.md)
+- [Shenzhen](China/SHENZHEN.md)
+
+### 🇨🇴 &nbsp; [Colombia](Colombia/README.md)
 
 ### 🇨🇿 &nbsp; [Czech Republic](Czech-Republic/README.md)
 
@@ -28,6 +31,9 @@
 ### 🇮🇳 &nbsp; [India](India/README.md)
 
 ### 🇲🇾 &nbsp; [Malaysia](Malaysia/README.md)
+
+### 🇪🇸 &nbsp; Spain
+- [Bilbao](Spain/BILBAO.md)
 
 ### 🇬🇧 &nbsp; UK
 - [London](UK/LONDON.md)
